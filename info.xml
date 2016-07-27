@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<extension key="uk.co.vedaconsulting.module.contributionpagesredirect" type="module">
+  <file>contributionpagesredirect</file>
+  <name>Contribution Pages - Redirect</name>
+  <description>Redirect from all Online Contribution Page's thank you page to a internal/external link.</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Rajesh</author>
+    <email>rajesh@vedaconsulting.co.uk</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">http://FIXME</url>
+    <url desc="Documentation">http://FIXME</url>
+    <url desc="Support">http://FIXME</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2016-01-20</releaseDate>
+  <version>1.0</version>
+  <develStage>beta</develStage>
+  <compatibility>
+    <ver>4.4</ver>
+    <ver>4.5</ver>
+    <ver>4.6</ver>
+  </compatibility>
+  <comments>This module is under active development.</comments>
+  <civix>
+    <namespace>CRM/Contributionpagesredirect</namespace>
+  </civix>
+</extension>
